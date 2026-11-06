@@ -161,9 +161,8 @@ We encourage users to review this page periodically.
 
 For questions, privacy concerns or requests relating to this Privacy Policy, contact:
 
-Developer / Publisher: Kasvix
-
-Email: kajal4works@gmail.com
+* **Developer / Publisher:** Kasvix
+* **Email:** kajal4works@gmail.com
 
 ---
 
