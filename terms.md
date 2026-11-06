@@ -199,9 +199,8 @@ These Terms shall be governed by the applicable laws of [INSERT GOVERNING JURISD
 
 ## 19. CONTACT INFORMATION
 
-Developer / Publisher: Kasvix
-
-Email: kajal4works@gmail.com
+* **Developer / Publisher:** Kasvix
+* **Email:** kajal4works@gmail.com
 
 ---
 
